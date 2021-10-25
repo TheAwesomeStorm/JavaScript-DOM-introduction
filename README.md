@@ -1,1 +1,1 @@
-# Introduction To Document Object Model
+# Introduction To DOM (Document Object Model)
