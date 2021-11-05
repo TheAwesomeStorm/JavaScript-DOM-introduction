@@ -6,4 +6,4 @@ The project simulates a house task list manager, where the user is able to inclu
 
 The HTML and CSS was given at the start of the course and the JavaScript was coded from scratch
 
-You can check out the final project [here](https://theawesomestorm.github.io/Introduction-To-DOM/)
+You can check out the final project [here](https://theawesomestorm.github.io/JavaScript-DOM-introduction/)
